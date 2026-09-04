@@ -293,7 +293,7 @@ TopoSSM 用作端到端真实工作负载，覆盖从数据检查、基线复现
 
 在提供可执行源码前，README 不声明任何 `pip install`、`docker compose up` 或训练入口命令。这样可以避免读者将架构展示版误认为已经能够一键复现的发布版本。
 
-## 建议的复现发布清单
+## 后续发布清单
 
 - [ ] 固定 Python、CUDA、PyTorch 和系统依赖版本；
 - [ ] 提供 `pyproject.toml` 或等价依赖锁文件；
